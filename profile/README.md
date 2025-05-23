@@ -16,5 +16,6 @@
 </a>
 
 ## contect
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:debug331@gmail.com)
-
+<a href="mailto:debug331@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32" alt="Gmail"/>
+</a>
