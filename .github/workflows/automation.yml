@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add README.md
+          git add .
           git commit -m "Update org members"
           git push
