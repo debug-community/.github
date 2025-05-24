@@ -1,0 +1,28 @@
+{
+  "name": "debug-github",
+  "version": "1.0.0",
+  "description": "README.md 스크립트 자동 갱신을 위한 패키지입니다.",
+  "keywords": [
+    "debug",
+    "github",
+    "README.md"
+  ],
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debug-community/.github.git"
+  },
+  "author": "dc-choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debug-community/.github/issues"
+  },
+  "homepage": "https://github.com/debug-community/.github#readme",
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
