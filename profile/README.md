@@ -10,6 +10,14 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+Debug 커뮤니티의 GitHub Organization 입니다.
+
+## Members
+| Name                                  |
+|---------------------------------------|
+| [hjy0616](https://github.com/hjy0616) |
+| [dc-choi](https://github.com/dc-choi) |
+
 ## Want to join?
 <a href="https://discord.gg/7sAYdbff">
   <img src="https://skillicons.dev/icons?i=discord" width="32" height="32" alt="Discord"/>
