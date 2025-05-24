@@ -59,7 +59,7 @@ async function generateReadme() {
   </a>
   `;
 
-  fs.writeFileSync('README.md', readmeContent);
+  fs.writeFileSync('profile/README.md', readmeContent);
 }
 
 generateReadme();
