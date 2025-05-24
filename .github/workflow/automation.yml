@@ -1,10 +1,5 @@
 name: Update Org Members in README
 
-on:
-  schedule:
-    - cron: '0 * * * *'  # 1시간에 1번
-  workflow_dispatch:
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
