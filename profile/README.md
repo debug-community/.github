@@ -23,6 +23,9 @@
 <a href="https://github.com/JSL107">
         <img src="https://avatars.githubusercontent.com/u/95362504?v=4" width="60" alt="JSL107" />
       </a>
+<a href="https://github.com/monam2">
+        <img src="https://avatars.githubusercontent.com/u/138136517?v=4" width="60" alt="monam2" />
+      </a>
 
   ## Want to join?
   <a href="https://discord.gg/7sAYdbff">
