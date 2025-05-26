@@ -9,6 +9,13 @@ async function generateReadme() {
     headers: { Authorization: `Bearer ${TOKEN}` },
   });
 
+  console.log(`
+    Found ${members.data.length} members in the organization ${ORG}:
+
+    ${members}
+  `)
+  console.log('Generating README...');
+
   const profileData = await Promise.all(
     members.data.map(async (member) => {
       const user = await axios.get(member.url, {
