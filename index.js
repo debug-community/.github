@@ -9,10 +9,9 @@ async function generateReadme() {
     headers: { Authorization: `Bearer ${TOKEN}` },
   });
 
-  console.log(`
-    Found ${members.data.length} members in the organization ${ORG}:
+  console.log(`Found ${members.data.length} members in the organization ${ORG}:
 
-    ${members}
+  ${JSON.stringify(members)}
   `)
   console.log('Generating README...');
 
