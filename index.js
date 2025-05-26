@@ -9,23 +9,24 @@ async function generateReadme() {
     headers: { Authorization: `Bearer ${TOKEN}` },
   });
 
-  console.log(`Found ${members.data.length} members in the organization ${ORG}:
-
-  ${JSON.stringify(members)}
-  `)
-  console.log('Generating README...');
+  console.log(`Found ${members.data.length} members in the organization ${ORG}`);
 
   const profileData = await Promise.all(
     members.data.map(async (member) => {
       const user = await axios.get(member.url, {
         headers: { Authorization: `Bearer ${TOKEN}` },
       });
+
+      console.log(`Fetching data for ${user.data.login}`);
+
       return {
         login: user.data.login,
         avatar_url: user.data.avatar_url,
       };
     })
   );
+
+  console.log('Generating README...');
 
   const avatars = profileData
   .map(
