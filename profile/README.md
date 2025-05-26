@@ -14,8 +14,14 @@
   Debug 커뮤니티의 GitHub Organization 입니다.
 
   ## 👥 Organization Members
-  <a href="https://github.com/dc-choi">
+  <a href="https://github.com/CreatorDodo">
+        <img src="https://avatars.githubusercontent.com/u/112838087?v=4" width="60" alt="CreatorDodo" />
+      </a>
+<a href="https://github.com/dc-choi">
         <img src="https://avatars.githubusercontent.com/u/57163578?v=4" width="60" alt="dc-choi" />
+      </a>
+<a href="https://github.com/dulian6974">
+        <img src="https://avatars.githubusercontent.com/u/213153586?v=4" width="60" alt="dulian6974" />
       </a>
 <a href="https://github.com/hjy0616">
         <img src="https://avatars.githubusercontent.com/u/105771997?v=4" width="60" alt="hjy0616" />
