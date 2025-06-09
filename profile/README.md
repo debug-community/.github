@@ -23,6 +23,9 @@
 <a href="https://github.com/dc-choi">
         <img src="https://avatars.githubusercontent.com/u/57163578?v=4" width="60" alt="dc-choi" />
       </a>
+<a href="https://github.com/DoYoungNim">
+        <img src="https://avatars.githubusercontent.com/u/150527840?v=4" width="60" alt="DoYoungNim" />
+      </a>
 <a href="https://github.com/dulian6974">
         <img src="https://avatars.githubusercontent.com/u/213153586?v=4" width="60" alt="dulian6974" />
       </a>
